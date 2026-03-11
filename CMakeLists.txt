@@ -1,3 +1,6 @@
+# Copyright (C) 2026 The Qt Company Ltd.
+# SPDX-License-Identifier: LicenseRef-Qt-Commercial OR BSD-3-Clause
+
 cmake_minimum_required (VERSION 3.15)
 
 project(HeartbeatMonitor VERSION 0.0.1 LANGUAGES C CXX ASM ASM_MASM)
